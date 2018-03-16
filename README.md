@@ -2,4 +2,5 @@
 
 I'll update some practice code and test application code for study.
 
-  - Learning OpenCV
+  - Learning OpenCV!
+  - become a backend developer!
